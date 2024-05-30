@@ -2,7 +2,7 @@
 
 It's only a PROTOTYPE! 
 
-Done with Justinmind
+Done with Justinmind.
 
 #### Objective:
 
