@@ -1,6 +1,8 @@
 # QRmeat
 
-It's only a PROTOTYPE!
+It's only a PROTOTYPE! 
+
+Done with Justinmind
 
 #### Objective:
 
