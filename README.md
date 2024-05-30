@@ -1,6 +1,6 @@
 # QRmeat
 
-It's just a PROTOTYPE!
+It's only a PROTOTYPE!
 
 #### Objective:
 
