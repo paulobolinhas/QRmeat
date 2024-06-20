@@ -6,12 +6,7 @@ PT
 
 ### Objective
 
-QRmeat utiliza a tecnologia do código QR para fornecer aos consumidores
-informações detalhadas sobre a origem, condições de criação, alimentação e
-processamento do produto. Ao fazer o scan do código QR na embalagem, o
-consumidor pode acessar os dados completos e verificáveis sobre o produto,
-garantindo a transparência e promovendo a confiança na qualidade da carne
-comprada.
+QRmeat uses QR code technology to provide consumers with detailed information about the origin, breeding conditions, feeding and processing of the product. By scanning the QR code on the packaging, the consumer can access complete and verifiable data about the product, ensuring transparency and promoting confidence in the quality of the meat purchased.
 
 ### Target
 
