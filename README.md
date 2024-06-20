@@ -1,5 +1,4 @@
-# QRmeat
-## for a meat more legit 
+# QRmeat *`for a meat more legit`*
 
 It's only a PROTOTYPE! 
 
